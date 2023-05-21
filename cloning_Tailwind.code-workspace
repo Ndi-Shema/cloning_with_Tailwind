@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../cloning_web/node_modules"
+		},
+		{
+			"path": "../cloning_web/.git"
+		},
+		{
+			"path": "../cloning_web/img"
+		}
+	],
+	"settings": {}
+}
